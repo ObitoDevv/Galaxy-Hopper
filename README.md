@@ -3,7 +3,7 @@
 Created with Cocos Creator 3.3.0, following the [Quick-Start first game Tutorial] [(Click Here)](https://docs.cocos.com/creator/manual/en/getting-started/first-game/)
 
 
-#Galaxy Hopper Features:
+# Galaxy Hopper Features:
 ## 1.Player Movement and Jumping:
   The Player class handles player movement and jumping.
   The player can move left (A key) or right (D key).
