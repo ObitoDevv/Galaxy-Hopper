@@ -1,3 +1,32 @@
 # Coin Pick BetaPlayer
 
-Created with Cocos Creator 3.3.0, following the [Quick-Start first game Tutorial](https://docs.cocos.com/creator/manual/en/getting-started/quick-start.html#writing-code-for-jumping-and-movement)
+Created with Cocos Creator 3.3.0, following the [Quick-Start first game Tutorial](https://docs.cocos.com/creator/manual/en/getting-started/quick-start.html#writing-code-for-jumping-and-movement) 
+
+
+# Obito-game-master Features:
+## 1.Player Movement and Jumping:
+  The Player class handles player movement and jumping.
+  The player can move left (A key) or right (D key).
+  Jumping is triggered by pressing the W key.
+  The player character jumps with a specified height and duration.
+  The player’s speed is controlled by acceleration and maximum move speed.
+## 2.Game Logic and Scoring:
+  The Game class manages game logic.  
+  Stars are spawned at random positions.
+  The player collects stars by getting close to them.
+  The game keeps track of the player’s score.
+  The game ends if the player fails to collect stars within a certain time.
+## 3.Star Collection:
+  The Star class represents collectible stars.
+  Stars have a pick-up radius.
+  When the player gets close enough to a star, it triggers collection.
+  Collected stars play a sound effect, increase the score, and are destroyed.
+## 4.Audio Effects:
+  The game includes audio effects for jumping and star collection.
+## 5.Scene Management:
+  The game scene transitions to a “game over” state when the timer runs out.
+  The player node becomes inactive, and the scene reloads.
+## 6.Random Star Spawning:
+  Stars spawn at random positions within specified bounds.
+  The duration between star spawns varies randomly.
+ 
