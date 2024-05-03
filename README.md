@@ -29,4 +29,10 @@ Created with Cocos Creator 3.3.0, following the [Quick-Start first game Tutorial
 ## 6.Random Star Spawning:
   Stars spawn at random positions within specified bounds.
   The duration between star spawns varies randomly.
- 
+
+  ![Screenshot (69)](https://github.com/ObitoDevv/Obito-game-master/assets/57661791/5bbefa50-6387-4015-985d-2142cce20e00) 
+
+
+
+ ![Screenshot (73)](https://github.com/ObitoDevv/Obito-game-master/assets/57661791/ed28555c-4324-49c5-9643-970f27944763)
+
