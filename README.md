@@ -1,6 +1,6 @@
 # Coin Pick BetaPlayer
 
-Created with Cocos Creator 3.3.0, following the [Quick-Start first game Tutorial]([[https://docs.cocos.com/creator/manual/en/getting-started/first-game/]]) 
+Created with Cocos Creator 3.3.0, following the [Quick-Start first game Tutorial] [(Click Here)](https://docs.cocos.com/creator/manual/en/getting-started/first-game/)
 
 
 # Obito-game-master Features:
