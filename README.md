@@ -27,7 +27,7 @@ Created with Cocos Creator 3.3.0, following the [Quick-Start first game Tutorial
   
   -The game keeps track of the player’s score.
   
-  -The game ends if the player fails to collect stars within a certain time.
+  -The game ends if the player fails to collect coins within a certain time.
   
 ## 3.Coin Collection:
   -The Coin class represents collectible stars.
