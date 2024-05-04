@@ -16,18 +16,18 @@ Created with Cocos Creator 3.3.0, following the [Quick-Start first game Tutorial
   The player collects stars by getting close to them.
   The game keeps track of the player’s score.
   The game ends if the player fails to collect stars within a certain time.
-## 3.Star Collection:
-  The Star class represents collectible stars.
+## 3.Coin Collection:
+  The Coin class represents collectible stars.
   Stars have a pick-up radius.
   When the player gets close enough to a star, it triggers collection.
   Collected stars play a sound effect, increase the score, and are destroyed.
 ## 4.Audio Effects:
   The game includes audio effects for jumping and star collection.
 ## 5.Scene Management:
-  The game scene transitions to a “game over” state when the timer runs out.
+  The game scene transitions to a “game over” state when the player is out of the scene. 
   The player node becomes inactive, and the scene reloads.
-## 6.Random Star Spawning:
-  Stars spawn at random positions within specified bounds.
+## 6.Random Coin Spawning:
+  Coin spawn at random positions within specified bounds.
   The duration between star spawns varies randomly.
 
   ![Screenshot (69)](https://github.com/ObitoDevv/Obito-game-master/assets/57661791/5bbefa50-6387-4015-985d-2142cce20e00) 
